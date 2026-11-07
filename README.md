@@ -22,6 +22,6 @@
 
 **Stack:** Python · FastAPI · LiveKit · Qdrant · Langfuse · MCP · Claude/OpenAI APIs · scikit-learn · pandas · SQL · R · AWS · Docker · GitHub Actions
 
-📄 [CV (PDF)](Irena_Schindler_CV.pdf)
+🌐 [irena-schindler.com](https://irena-schindler.com) · 🤖 [Let Lena introduce me](https://irena-schindler.com/praesentation/index.html?lang=en) · 📄 [CV (PDF)](Irena_Schindler_CV.pdf)
 
 📫 Open for freelance projects: [LinkedIn](https://www.linkedin.com/in/dr-irena-schindler-46415417a/) · irena@aiden.ae
