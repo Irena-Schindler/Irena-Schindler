@@ -16,6 +16,8 @@
 | [voice-receptionist](https://github.com/Irena-Schindler/voice-receptionist) | German voice agent on LiveKit (STT → LLM + tools → TTS, SIP-ready) with tested booking logic |
 | [rag-with-sources](https://github.com/Irena-Schindler/rag-with-sources) | RAG on Qdrant with verified citations, refusal path, Langfuse tracing and retrieval evals |
 | [mcp-calendar-server](https://github.com/Irena-Schindler/mcp-calendar-server) | MCP server wrapping a REST API: annotations, idempotency, error mapping |
+| [voice-agent-audit](https://github.com/Irena-Schindler/voice-agent-audit) | 20 scenarios that break voice/chat agents (injection, booking safety, grounding), deterministic one-page audit |
+| [ask-irena](https://github.com/Irena-Schindler/ask-irena) | My landing page with a grounded "Ask my AI" assistant: refusals, rate limits, FAQ fallback |
 | [demand-forecasting](https://github.com/Irena-Schindler/demand-forecasting) | Gradient boosting vs. seasonal baseline with leakage-safe features and rolling backtest |
 
 **Stack:** Python · FastAPI · LiveKit · Qdrant · Langfuse · MCP · Claude/OpenAI APIs · scikit-learn · pandas · SQL · R · AWS · Docker · GitHub Actions
