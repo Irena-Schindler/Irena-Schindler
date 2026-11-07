@@ -6,7 +6,7 @@
 - 🚗 Lead Data Scientist, **Volkswagen AG** (2022–2025): data science team lead, predictive maintenance, enterprise data model
 - 🖨️ Senior Data Scientist, **Konica Minolta Business Solutions Europe** (2018–2022): AI support assistant saving **€34,000 per month**; cartridge demand forecast with **93 % accuracy**
 - 🎓 Dr. rer. nat. in theoretical computer science (Leibniz University Hannover); lecturer for Machine Learning & Parallel Programming
-- 🌍 Based in Dubai (GMT+4), working remotely with DACH teams · German & English
+- 🌍 Based in Dubai (GMT+4) · remote worldwide, on-site in the UAE · German & English
 
 ## Selected projects
 
