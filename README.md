@@ -20,7 +20,7 @@
 | [ask-irena](https://github.com/Irena-Schindler/ask-irena) | My landing page with a grounded "Ask my AI" assistant: refusals, rate limits, FAQ fallback |
 | [demand-forecasting](https://github.com/Irena-Schindler/demand-forecasting) | Gradient boosting vs. seasonal baseline with leakage-safe features and rolling backtest |
 
-**Stack:** Python · FastAPI · LiveKit · Qdrant · Langfuse · MCP · Claude/OpenAI APIs · scikit-learn · pandas · SQL · R · AWS · Docker · GitHub Actions
+**Stack:** Python · FastAPI · TypeScript · Next.js · LangChain · Hugging Face · LiveKit · Twilio · ElevenLabs · Qdrant · Langfuse · MCP · Claude/OpenAI APIs · n8n · Make · Zapier · Supabase · scikit-learn · pandas · Power BI · SQL · R · AWS · Google Cloud · Vercel · Docker · GitHub Actions · EU AI Act &amp; GDPR
 
 🌐 [irena-schindler.com](https://irena-schindler.com) · 🤖 [Let Lena introduce me](https://irena-schindler.com/praesentation/index.html?lang=en) · 📄 [CV (PDF)](Irena_Schindler_CV.pdf)
 
